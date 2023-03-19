@@ -1,12 +1,12 @@
 ---
 layout: home
-subtitle: STYLE MODELING FOR MULTI-SPEAKER ARTICULATION-TO-SPEECH
+subtitle: BrainTalker
 ---
 
-<h2>STYLE MODELING FOR MULTI-SPEAKER ARTICULATION-TO-SPEECH
+<h2> BrainTalker: Low-Resource Brain-to-Speech Synthesis with Transfer Learning using Wav2Vec 2.0
 </h2>
 
-Submitted to ICASSP 2023 (Paper ID: 3227)
+Submitted to INTERSPEECH 2023 (Paper ID: 2233)
 
 <h3>Authors
 </h3>
