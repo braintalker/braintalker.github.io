@@ -44,16 +44,16 @@ demo page and code publicly
         	GT Spectrogram
         </td>
         <td class="someting">
-            <img src="./assets/img/a_gt.png" width="300">
+            <img src="./assets/img/a_gt.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/b_gt.png" width="300">
+            <img src="./assets/img/b_gt.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/c_gt.png" width="300">
+            <img src="./assets/img/c_gt.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/d_gt.png" width="300">
+            <img src="./assets/img/d_gt.png" width="200">
         </td>
     </tr>
     <tr>
@@ -61,27 +61,27 @@ demo page and code publicly
         	Synthesized Spectrogram
         </td>
         <td class="someting">
-            <img src="./assets/img/a_syn.png" width="300">
+            <img src="./assets/img/a_syn.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/b_syn.png" width="300">
+            <img src="./assets/img/b_syn.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/c_syn.png" width="300">
+            <img src="./assets/img/c_syn.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/d_syn.png" width="300">
+            <img src="./assets/img/d_syn.png" width="200">
         </td>
     </tr>
     <tr>
-        <td class="first-col">Ground Truth</td>
+        <td class="first-col">GT</td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B01_S36_R02_N_target.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B02_S13_R02_N_target.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B03_S21_R02_N_target.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B07_S07_R01_N_target.wav"></audio></td>
     </tr>
     <tr>
-        <td class="first-col">Baseline</td>
+        <td class="first-col">GT mel-spectrogram + hifi-gan</td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B01_S36_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B02_S13_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B03_S21_R02_N.wav"></audio></td>
