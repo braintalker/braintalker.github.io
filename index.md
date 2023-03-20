@@ -41,10 +41,27 @@ demo page and code publicly
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
-        	
+        	Spectrogram
         </td>
         <td class="someting">
-            <img src="./assets/img/proposed.png" width="1000">
+            <img src="./assets/img/proposed.png" width="300">
+        </td>
+        <td class="someting">
+            <img src="./assets/img/proposed.png" width="300">
+        </td>
+        <td class="someting">
+            <img src="./assets/img/proposed.png" width="300">
+        </td>
+        <td class="someting">
+            <img src="./assets/img/proposed.png" width="300">
+        </td>
+    </tr>
+    <tr>
+        <td>
+        	Text
+        </td>
+        <td class="text">
+            The wrist was badly strained and hung limp. 
         </td>
         <td class="text">
             The ink stain dried on the finished page.
