@@ -10,7 +10,6 @@ Submitted to INTERSPEECH 2023 (Paper ID: 2233)
 
 <h3>Authors
 </h3>
-
 Anonymous submission
 
 <br />
@@ -38,7 +37,7 @@ demo page and code publicly
 </h3>
 
 
-<table style="margin-left: auto; margin-right: auto;">
+<table width = "1000">
     <tr>
         <td>
         	GT Spectrogram
