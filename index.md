@@ -44,25 +44,7 @@ demo page and code publicly
         	
         </td>
         <td class="someting">
-            <img src="./assets/img/proposed.png" width="100">
-        </td>
-        <td class="text">
-            The ink stain dried on the finished page.
-        </td>
-        <td class="text">
-            The young kid jumped the rusty gate.
-        </td>
-        <td class="text">
-            This plank was made for walking on.
-        </td>
-    </tr>
-
-    <tr>
-        <td>
-        	
-        </td>
-        <td class="text">
-            The wrist was badly strained and hung limp. 
+            <img src="./assets/img/proposed.png" width="1000">
         </td>
         <td class="text">
             The ink stain dried on the finished page.
