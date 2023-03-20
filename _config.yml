@@ -38,11 +38,11 @@ round-avatar: false
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-#social-network-links:
-#  email: "someone@example.com"
+social-network-links:
+  email: "interspeech2023braintalker@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-github: https://github.com/braintalker
+  github: https://github.com/braintalker
 #  twitter: daattali
 # patreon: DeanAttali
 #  youtube: c/daattali
