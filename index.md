@@ -11,28 +11,26 @@ Submitted to INTERSPEECH 2023 (Paper ID: 2233)
 <h3>Authors
 </h3>
 
-Miseul Kim, Zhenyu Piao, Jihyun Lee, Hong-goo Kang
+Anonymous submission
 
 <br />
 
 <h3>Proposed Method</h3>
-<img src="./assets/img/Proposed_v6.png" width="400">
+<img src="./assets/img/proposed.png" width="400">
 
-In this paper, we propose a neural articulation-to-speech
-(ATS) framework that synthesizes high-quality speech from
-articulatory signal in a multi-speaker situation. Most conventional
-ATS approaches only focus on modeling contextual information
-of speech from a single speaker’s articulatory features.
-To explicitly represent each speaker’s speaking style as
-well as the contextual information, our proposed model estimates
-style embeddings, guided from the essential speech
-style attributes such as pitch and energy. We adopt convolutional
-layers and transformer-based attention layers for our
-model to fully utilize both local and global information of articulatory
-signals, measured by electromagnetic articulography
-(EMA). Our model significantly improves the quality of
-synthesized speech compared to the baseline in terms of objective
-and subjective measurements in the Haskins dataset.
+In this paper, we propose BrainTalker – a novel brainto-speech synthesis framework that generates intelligible spoken speech from electrocorticography (ECoG) signals under an
+extremely low-resource scenario. Despite its high-resolution
+strength, ECoG requires a risky surgical procedure that severely
+limits the data collection. To solve this problem, we propose
+a transfer learning approach that utilizes a pre-trained selfsupervised model Wav2Vec 2.0 and extracts generalized latent
+features from the ECoG signals. Also, we introduce context
+loss, a novel loss function that reduces the information gap
+between the brain and speech representations obtained from
+Wav2Vec 2.0 respectively. We feed the extracted representations into a mel generator and synthesize mel spectrograms for
+speech waveform generation. Our experimental results show
+that BrainTalker can generate natural and intelligible speech in
+terms of both subjective and objective metrics. We release the
+demo page and code publicly
 
 <br />
 
