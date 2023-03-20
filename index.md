@@ -74,23 +74,6 @@ demo page and code publicly
         </td>
     </tr>
     <tr>
-        <td>
-        	Text
-        </td>
-        <td class="text">
-            [kaNadzi] 
-        </td>
-        <td class="text">
-            [modza]
-        </td>
-        <td class="text">
-            [shon]
-        </td>
-        <td class="text">
-            [shon]
-        </td>
-    </tr>
-    <tr>
         <td class="first-col">Ground Truth</td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B01_S36_R02_N_target.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B02_S13_R02_N_target.wav"></audio></td>
