@@ -37,12 +37,29 @@ demo page and code publicly
 <h3>Samples
 </h3>
 
- <h4>Female (F03)</h4>
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
-        	Text
+        	
+        </td>
+        <td class="someting">
+            <img src="./assets/img/proposed.png" width="100">
+        </td>
+        <td class="text">
+            The ink stain dried on the finished page.
+        </td>
+        <td class="text">
+            The young kid jumped the rusty gate.
+        </td>
+        <td class="text">
+            This plank was made for walking on.
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+        	
         </td>
         <td class="text">
             The wrist was badly strained and hung limp. 
@@ -77,50 +94,6 @@ demo page and code publicly
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B02_S13_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B03_S21_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B07_S07_R01_N.wav"></audio></td>
-    </tr>
-</table>
-
-
- <h4>Male (M03)</h4>
-
-<table style="margin-left: auto; margin-right: auto;">
-    <tr>
-        <td>
-        	Text
-        </td>
-        <td class="text">
-            Port is a strong wine with a smoky taste.
-        </td>
-        <td class="text">
-            The office paint was a dull, sad tan.
-        </td>
-        <td class="text">
-            They felt gay when the ship arrived in port.
-        </td>
-        <td class="text">
-            Once we stood beside the shore.
-        </td>
-    </tr>
-    <tr>
-        <td class="first-col">Ground Truth</td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S20_R02_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S47_R01_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S59_R01_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B07_S53_R01_N_target.wav"></audio></td>
-    </tr>
-    <tr>
-        <td class="first-col">Baseline</td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/M03_B03_S20_R02_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/M03_B03_S47_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/M03_B03_S59_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/M03_B07_S53_R01_N.wav"></audio></td>
-    </tr>
-    <tr>
-        <td class="first-col">Proposed</td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S20_R02_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S47_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S59_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B07_S53_R01_N.wav"></audio></td>
     </tr>
 </table>
 
