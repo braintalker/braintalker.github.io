@@ -36,7 +36,6 @@ demo page and code publicly.
 <h3>Samples
 </h3>
 
-<h3>
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
@@ -87,6 +86,5 @@ demo page and code publicly.
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/syn/d_syn.wav"></audio></td>
     </tr>
 </table>
-</h3>
 
 <br />
