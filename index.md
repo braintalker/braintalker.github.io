@@ -37,7 +37,7 @@ demo page and code publicly
 </h3>
 
 
-<table width = "1000">
+<table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
         	GT Spectrogram
@@ -74,24 +74,24 @@ demo page and code publicly
     </tr>
     <tr>
         <td class="first-col">GT</td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B01_S36_R02_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B02_S13_R02_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B03_S21_R02_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B07_S07_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/tgt/a_tgt.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/tgt/a_tgt.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/tgt/a_tgt.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/tgt/a_tgt.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">GT mel-spectrogram + hifi-gan</td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B01_S36_R02_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B02_S13_R02_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B03_S21_R02_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B07_S07_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/tgt/a_tgt.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/tgt/b_tgt.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/tgt/c_tgt.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/tgt/d_tgt.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B01_S36_R02_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B02_S13_R02_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B03_S21_R02_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B07_S07_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/syn/a_syn.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/syn/b_syn.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/syn/c_syn.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/syn/d_syn.wav"></audio></td>
     </tr>
 </table>
 
