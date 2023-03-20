@@ -29,14 +29,14 @@ Wav2Vec 2.0 respectively. We feed the extracted representations into a mel gener
 speech waveform generation. Our experimental results show
 that BrainTalker can generate natural and intelligible speech in
 terms of both subjective and objective metrics. We release the
-demo page and code publicly
+demo page and code publicly.
 
 <br />
 
 <h3>Samples
 </h3>
 
-
+<h3>
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
@@ -87,5 +87,6 @@ demo page and code publicly
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/syn/d_syn.wav"></audio></td>
     </tr>
 </table>
+</h3>
 
 <br />
