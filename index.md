@@ -38,22 +38,22 @@ demo page and code publicly
 </h3>
 
 
-<table style="margin-left: auto; margin-right: auto;">
+<table style="margin-left: initial; margin-right: initial;">
     <tr>
         <td>
         	GT Spectrogram
         </td>
         <td class="someting">
-            <img src="./assets/img/a_gt.png" width="200">
+            <img src="./assets/img/a_gt.png" width="300">
         </td>
         <td class="someting">
-            <img src="./assets/img/b_gt.png" width="200">
+            <img src="./assets/img/b_gt.png" width="300">
         </td>
         <td class="someting">
-            <img src="./assets/img/c_gt.png" width="200">
+            <img src="./assets/img/c_gt.png" width="300">
         </td>
         <td class="someting">
-            <img src="./assets/img/d_gt.png" width="200">
+            <img src="./assets/img/d_gt.png" width="300">
         </td>
     </tr>
     <tr>
@@ -61,16 +61,16 @@ demo page and code publicly
         	Synthesized Spectrogram
         </td>
         <td class="someting">
-            <img src="./assets/img/a_syn.png" width="200">
+            <img src="./assets/img/a_syn.png" width="300">
         </td>
         <td class="someting">
-            <img src="./assets/img/b_syn.png" width="200">
+            <img src="./assets/img/b_syn.png" width="300">
         </td>
         <td class="someting">
-            <img src="./assets/img/c_syn.png" width="200">
+            <img src="./assets/img/c_syn.png" width="300">
         </td>
         <td class="someting">
-            <img src="./assets/img/d_syn.png" width="200">
+            <img src="./assets/img/d_syn.png" width="300">
         </td>
     </tr>
     <tr>
