@@ -58,6 +58,23 @@ demo page and code publicly
     </tr>
     <tr>
         <td>
+        	Synthesized Spectrogram
+        </td>
+        <td class="someting">
+            <img src="./assets/img/a_syn.png" width="300">
+        </td>
+        <td class="someting">
+            <img src="./assets/img/b_syn.png" width="300">
+        </td>
+        <td class="someting">
+            <img src="./assets/img/c_syn.png" width="300">
+        </td>
+        <td class="someting">
+            <img src="./assets/img/d_syn.png" width="300">
+        </td>
+    </tr>
+    <tr>
+        <td>
         	Text
         </td>
         <td class="text">
