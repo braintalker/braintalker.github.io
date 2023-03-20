@@ -78,16 +78,16 @@ demo page and code publicly
         	Text
         </td>
         <td class="text">
-            The wrist was badly strained and hung limp. 
+            [kaNadzi] 
         </td>
         <td class="text">
-            The ink stain dried on the finished page.
+            [modza]
         </td>
         <td class="text">
-            The young kid jumped the rusty gate.
+            [shon]
         </td>
         <td class="text">
-            This plank was made for walking on.
+            [shon]
         </td>
     </tr>
     <tr>
