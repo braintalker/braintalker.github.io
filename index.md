@@ -16,7 +16,7 @@ Anonymous submission
 <br />
 
 <h3>Proposed Method</h3>
-<img src="./assets/img/proposed.png" width="1000">
+<img src="./assets/img/proposed.png" width="3000">
 
 In this paper, we propose BrainTalker – a novel brainto-speech synthesis framework that generates intelligible spoken speech from electrocorticography (ECoG) signals under an
 extremely low-resource scenario. Despite its high-resolution
@@ -38,7 +38,7 @@ demo page and code publicly
 </h3>
 
 
-<table style="margin-left: 1em; margin-right: 1em;">
+<table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
         	GT Spectrogram
