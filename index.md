@@ -38,7 +38,7 @@ demo page and code publicly
 </h3>
 
 
-<table style="margin-left: initial; margin-right: initial;">
+<table style="margin-left: 1em; margin-right: 1em;">
     <tr>
         <td>
         	GT Spectrogram
