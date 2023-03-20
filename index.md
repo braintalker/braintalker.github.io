@@ -41,19 +41,19 @@ demo page and code publicly
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
-        	Spectrogram
+        	GT Spectrogram
         </td>
         <td class="someting">
-            <img src="./assets/img/proposed.png" width="300">
+            <img src="./assets/img/a_gt.png" width="300">
         </td>
         <td class="someting">
-            <img src="./assets/img/proposed.png" width="300">
+            <img src="./assets/img/b_gt.png" width="300">
         </td>
         <td class="someting">
-            <img src="./assets/img/proposed.png" width="300">
+            <img src="./assets/img/c_gt.png" width="300">
         </td>
         <td class="someting">
-            <img src="./assets/img/proposed.png" width="300">
+            <img src="./assets/img/d_gt.png" width="300">
         </td>
     </tr>
     <tr>
