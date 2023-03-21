@@ -37,7 +37,7 @@ demo page and code publicly.
 
 <br />
 
-<h3>Samples (Seen)
+<h3>Seen samples
 </h3>
 
 <table style="width:10; height:10">
@@ -100,7 +100,7 @@ demo page and code publicly.
 
 <br />
 
-<h3>Samples (Unseen: sʰon)
+<h3>Unseen samples - [sʰon]
 </h3>
 
 <table style="width:10; height:10">
