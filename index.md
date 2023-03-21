@@ -77,24 +77,24 @@ demo page and code publicly.
     </tr>
     <tr>
         <td class="first-col">GT</td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt/HSH2_sem2_ecog_4_0.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt/HSH2_sem2_ecog_9_4.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt/HSH2_sem8_ecog_14_9.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt/HSH2_sem7_ecog_7_11.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt/HSH2_sem2_ecog_4_0.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt/HSH2_sem2_ecog_9_4.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt/HSH2_sem8_ecog_14_9.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt/HSH2_sem7_ecog_7_11.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">GT (hifi-gan)</td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt_hifigan/HSH2_sem2_ecog_4_0_target.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt_hifigan/HSH2_sem2_ecog_9_4_target.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt_hifigan/HSH2_sem8_ecog_14_9_target.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt_hifigan/HSH2_sem7_ecog_7_11_target.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt_hifigan/HSH2_sem2_ecog_4_0_target.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt_hifigan/HSH2_sem2_ecog_9_4_target.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt_hifigan/HSH2_sem8_ecog_14_9_target.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt_hifigan/HSH2_sem7_ecog_7_11_target.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/prop/HSH2_sem2_ecog_4_0.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/prop/HSH2_sem2_ecog_9_4.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/prop/HSH2_sem8_ecog_14_9.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/prop/HSH2_sem7_ecog_7_11.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/prop/HSH2_sem2_ecog_4_0.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/prop/HSH2_sem2_ecog_9_4.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/prop/HSH2_sem8_ecog_14_9.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/prop/HSH2_sem7_ecog_7_11.wav"></audio></td>
     </tr>
 </table>
 
@@ -140,24 +140,24 @@ demo page and code publicly.
     </tr>
     <tr>
         <td class="first-col">GT</td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt/HSH2_sem7_ecog_13_8.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt/HSH2_sem4_ecog_17_8.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt/HSH2_sem4_ecog_2_8.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt/HSH2_sem8_ecog_11_8.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt/HSH2_sem7_ecog_13_8.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt/HSH2_sem4_ecog_17_8.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt/HSH2_sem4_ecog_2_8.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt/HSH2_sem8_ecog_11_8.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">GT (hifi-gan)</td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt_hifigan/HSH2_sem7_ecog_13_8_target.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt_hifigan/HSH2_sem4_ecog_17_8_target.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt_hifigan/HSH2_sem4_ecog_2_8_target.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/gt_hifigan/HSH2_sem8_ecog_11_8_target.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt_hifigan/HSH2_sem7_ecog_13_8_target.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt_hifigan/HSH2_sem4_ecog_17_8_target.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt_hifigan/HSH2_sem4_ecog_2_8_target.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/gt_hifigan/HSH2_sem8_ecog_11_8_target.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/prop/HSH2_sem7_ecog_13_8.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/prop/HSH2_sem4_ecog_17_8.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/prop/HSH2_sem4_ecog_2_8.wav"></audio></td>
-        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/samples/prop/HSH2_sem8_ecog_11_8.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/prop/HSH2_sem7_ecog_13_8.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/prop/HSH2_sem4_ecog_17_8.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/prop/HSH2_sem4_ecog_2_8.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/sample/prop/HSH2_sem8_ecog_11_8.wav"></audio></td>
     </tr>
 </table>
 
