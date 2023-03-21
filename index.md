@@ -40,7 +40,7 @@ demo page and code publicly.
 <h3>Samples
 </h3>
 
-<table style="width:300px; height:100px">
+<table style="width:10; height:10">
     <tr>
         <td>
         	GT Spectrogram
