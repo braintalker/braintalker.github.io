@@ -146,6 +146,13 @@ demo page and code publicly.
         <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/gt/d_gt.wav"></audio></td>
     </tr>
     <tr>
+        <td class="first-col">GT (hifi-gan)</td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/tgt/a_tgt.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/tgt/b_tgt.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/tgt/c_tgt.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/tgt/d_tgt.wav"></audio></td>
+    </tr>
+    <tr>
         <td class="first-col">Proposed</td>
         <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/syn/a_syn.wav"></audio></td>
         <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/syn/b_syn.wav"></audio></td>
