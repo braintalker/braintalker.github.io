@@ -77,10 +77,10 @@ demo page and code publicly.
     </tr>
     <tr>
         <td class="first-col">GT</td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/gt/a_gt.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/gt/b_gt.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/gt/c_gt.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/gt/d_gt.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/gt/a_gt.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/gt/b_gt.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/gt/c_gt.wav"></audio></td>
+        <td><audio controls style="width: 200px;" preload="none"><source src="./assets/Samples_demo/gt/d_gt.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
