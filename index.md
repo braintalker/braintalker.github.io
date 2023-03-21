@@ -46,16 +46,16 @@ demo page and code publicly.
         	GT Spectrogram
         </td>
         <td class="someting">
-            <img src="./assets/img/e.png" width="200">
+            <img src="./assets/img/a.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/f.png" width="200">
+            <img src="./assets/img/b.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/g.png" width="200">
+            <img src="./assets/img/c.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/g.png" width="200">
+            <img src="./assets/img/d.png" width="200">
         </td>
     </tr>
     <tr>
@@ -63,16 +63,16 @@ demo page and code publicly.
         	Synthesized Spectrogram
         </td>
         <td class="someting">
-            <img src="./assets/img/e_t.png" width="200">
+            <img src="./assets/img/a_t.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/f_t.png" width="200">
+            <img src="./assets/img/b_t.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/g_t.png" width="200">
+            <img src="./assets/img/c_t.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/h_t.png" width="200">
+            <img src="./assets/img/d_t.png" width="200">
         </td>
     </tr>
     <tr>
@@ -109,16 +109,16 @@ demo page and code publicly.
         	GT Spectrogram
         </td>
         <td class="someting">
-            <img src="./assets/img/a_gt.png" width="200">
+            <img src="./assets/img/e.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/b_gt.png" width="200">
+            <img src="./assets/img/f.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/c_gt.png" width="200">
+            <img src="./assets/img/g.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/d_gt.png" width="200">
+            <img src="./assets/img/h.png" width="200">
         </td>
     </tr>
     <tr>
@@ -126,16 +126,16 @@ demo page and code publicly.
         	Synthesized Spectrogram
         </td>
         <td class="someting">
-            <img src="./assets/img/a_syn.png" width="200">
+            <img src="./assets/img/e_t.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/b_syn.png" width="200">
+            <img src="./assets/img/f_t.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/c_syn.png" width="200">
+            <img src="./assets/img/g_t.png" width="200">
         </td>
         <td class="someting">
-            <img src="./assets/img/d_syn.png" width="200">
+            <img src="./assets/img/h_t.png" width="200">
         </td>
     </tr>
     <tr>
