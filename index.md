@@ -36,7 +36,7 @@ demo page and code publicly.
 <h3>Samples
 </h3>
 
-<table style="margin-left: auto; margin-right: auto;">
+<table style="width:300px; height:100px">
     <tr>
         <td>
         	GT Spectrogram
