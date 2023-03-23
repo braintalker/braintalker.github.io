@@ -19,7 +19,6 @@ https://braintalker.github.io
 <br />
 
 <h3>Proposed Method</h3>
-<img src="./assets/img/proposed.png" width="3000">
 
 In this paper, we propose BrainTalker – a novel brainto-speech synthesis framework that generates intelligible spoken speech from electrocorticography (ECoG) signals under an
 extremely low-resource scenario. Despite its high-resolution
