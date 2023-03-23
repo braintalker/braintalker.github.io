@@ -14,24 +14,18 @@ Anonymous submission
 
 <h3>Github code
 </h3>
-Code will be available soon :-)
+Code will be available soon!
 <br />
 
 <h3>Proposed Method</h3>
 
-In this paper, we propose BrainTalker – a novel brainto-speech synthesis framework that generates intelligible spoken speech from electrocorticography (ECoG) signals under an
-extremely low-resource scenario. Despite its high-resolution
-strength, ECoG requires a risky surgical procedure that severely
-limits the data collection. To solve this problem, we propose
-a transfer learning approach that utilizes a pre-trained selfsupervised model Wav2Vec 2.0 and extracts generalized latent
-features from the ECoG signals. Also, we introduce context
-loss, a novel loss function that reduces the information gap
-between the brain and speech representations obtained from
-Wav2Vec 2.0 respectively. We feed the extracted representations into a mel generator and synthesize mel spectrograms for
-speech waveform generation. Our experimental results show
-that BrainTalker can generate natural and intelligible speech in
-terms of both subjective and objective metrics. We release the
-demo page and code publicly.
+In this paper, we propose BrainTalker – a novel brain to-speech synthesis framework that generates intelligible spoken speech from electrocorticography (ECoG) signals under an extremely low-resource scenario. 
+Despite its high-resolution strength, ECoG requires a risky surgical procedure that severely limits the data collection. 
+To solve this problem, we propose a transfer learning approach that utilizes a pre-trained selfsupervised model Wav2Vec 2.0 and extracts generalized latent features from the ECoG signals. 
+Also, we introduce context loss, a novel loss function that reduces the information gap between the brain and speech representations obtained from Wav2Vec 2.0 respectively. 
+We feed the extracted representations into a mel generator and synthesize mel spectrograms for speech waveform generation. 
+Our experimental results show that BrainTalker can generate natural and intelligible speech in terms of both subjective and objective metrics. 
+We release the demo page and code publicly.
 
 <br />
 
