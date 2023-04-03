@@ -14,7 +14,7 @@ Anonymous submission
 
 <h3>Github code
 </h3>
-Code will be available soon!
+https://github.com/braintalker/braintalker_pytorch
 <br />
 
 <h3>Proposed Method</h3>
