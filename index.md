@@ -10,7 +10,7 @@ Submitted to IEEE-BHI 2023
 
 <h3>Authors
 </h3>
-Anonymous submission
+Miseul Kim, Zhenyu Piao, Jihyun Lee and Hong-Goo Kang†
 
 <h3>Github code
 </h3>
@@ -20,13 +20,8 @@ Anonymous submission
 
 <h3>Proposed Method</h3>
 
-In this paper, we propose BrainTalker – a novel brain to-speech synthesis framework that generates intelligible spoken speech from electrocorticography (ECoG) signals under an extremely low-resource scenario. 
-Despite its high-resolution strength, ECoG requires a risky surgical procedure that severely limits the data collection. 
-To solve this problem, we propose a transfer learning approach that utilizes a pre-trained selfsupervised model Wav2Vec 2.0 and extracts generalized latent features from the ECoG signals. 
-Also, we introduce context loss, a novel loss function that reduces the information gap between the brain and speech representations obtained from Wav2Vec 2.0 respectively. 
-We feed the extracted representations into a mel generator and synthesize mel spectrograms for speech waveform generation. 
-Our experimental results show that BrainTalker can generate natural and intelligible speech in terms of both subjective and objective metrics. 
-We release the demo page and code publicly.
+Decoding spoken speech from neural activity in the brain is a fast-emerging research topic, as it could enable communication for people who have difficulties with producin audible speech. For this task, electrocorticography (ECoG) is a common method for recording brain activity with high temporal resolution and high spatial precision. However, due to the risky surgical procedure required for obtaining ECoG recordings, relatively little of this data has been collected, and the amount is insufficient to train a neural network-based Brain-to-Speech (BTS) system. To address this problem, we propose BrainTalker—a novel BTS framework that generates intelligible spoken speech from ECoG signals under extremely low-resource scenarios. We apply a transfer learning approach utilizing a pre-trained self-supervised model, Wav2Vec 2.0. Specifically, we train an encoder module to map ECoG signals to latent embeddings that match Wav2Vec 2.0 representations of the corresponding spoken speech. These embeddings are then transformed into mel-spectrograms using stacked convolutional and transformer-based layers, which are fed into a neural vocoder to synthesize speech waveform. Experimental results demonstrate our proposed framework achieves outstanding performance in terms of subjective and objective metrics, includinga Pearson correlation
+coefficient of 0.9 between generated and ground truth mel-spectrograms. We share publicly available Demos and Code.
 
 <br />
 
